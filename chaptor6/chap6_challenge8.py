@@ -1,0 +1,1 @@
+print("He said 'One day You'll leave this world behind, So live a life you will remember'")
